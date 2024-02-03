@@ -9,8 +9,9 @@ The HTML file (`index.html`) contains a simple structure with a heading and a ga
 ## Preview
 
 ![Zooming Effect](./images/preview-before.png)
-*After*
+*Before*
 ![Alt text](./images/preview-after.png)
+*After*
 
 ## Usage
 
